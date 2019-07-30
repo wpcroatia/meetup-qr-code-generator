@@ -1,5 +1,6 @@
 // ESNext Modules
 require('babel-polyfill');
+
 const brandedQRCode = require('branded-qr-code');
 const path = require('path');
 const fs = require('fs');

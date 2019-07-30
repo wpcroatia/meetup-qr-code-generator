@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "main": "",
-  "dependencies": {
-    "babel-polyfill": "^6.26.0",
-    "branded-qr-code": "^1.3.0"
-  },
   "scripts": {
     "generate": "node index.js"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "branded-qr-code": "^1.3.0"
   }
 }
