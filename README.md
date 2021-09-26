@@ -12,13 +12,13 @@ A simple generator of QR codes with Wapuu logo in the centre made in JS.
 2. Type
 
 ```bash
-yarn install
+npm install
 ```
 
 3. Run the script
 
 ```bash
-yarn run generate
+npm run generate
 ```
 
 This will generate a QR code in the `output/` folder.
